@@ -1,4 +1,2 @@
-srcs/
-includes/
 *.o
 *.a
